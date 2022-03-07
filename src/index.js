@@ -1,4 +1,5 @@
-alert('100');
+// import './2.5.面向对象';
+import './2.6.三要素';
 class Person {
     constructor(name) {
         this.name = name
