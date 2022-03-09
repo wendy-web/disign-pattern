@@ -15,3 +15,5 @@
 npm install babel-core babel-loader babel-polyfill babel-preset-es2015 babel-preset-latest --save-dev
 遇到问题：
 版本不一致导致报错；
+
+2-4 面向对象总结的[CSDN的文章](https://blog.csdn.net/weixin_42369598/article/details/123367599?spm=1001.2014.3001.5502)
