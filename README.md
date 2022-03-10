@@ -18,3 +18,8 @@ npm install babel-core babel-loader babel-polyfill babel-preset-es2015 babel-pre
 
 2-4 面向对象总结的[CSDN的文章](https://blog.csdn.net/weixin_42369598/article/details/123367599?spm=1001.2014.3001.5502)
 2-11 UML类图的使用总结；[UML类图使用总结CSDN](https://editor.csdn.net/md/?articleId=123368993)
+
+[点击进入UML的网址](https://www.processon.com/history)
+3设计模式的使用
+打车的面试题：
+画出UML图，
