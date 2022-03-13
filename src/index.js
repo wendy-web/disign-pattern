@@ -4,7 +4,8 @@
 
 // import './课程chapter3/打车的面试题'
 // import './课程chapter3/停车场'
-import './课程chapter4(单例模式)/index'
+// import './课程chapter4(单例模式)/index'
+import './课程模式/代理模式'
 class Person {
     constructor(name) {
         this.name = name
