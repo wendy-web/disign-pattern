@@ -2,7 +2,8 @@
 // import './课程chapter2/2.6.三要素- 继承';
 // import './课程chapter2/2.7UML类图'
 
-import './课程chapter3/打车的面试题'
+// import './课程chapter3/打车的面试题'
+import './课程chapter3/停车场'
 class Person {
     constructor(name) {
         this.name = name
