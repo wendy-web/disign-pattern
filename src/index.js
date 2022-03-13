@@ -3,7 +3,8 @@
 // import './课程chapter2/2.7UML类图'
 
 // import './课程chapter3/打车的面试题'
-import './课程chapter3/停车场'
+// import './课程chapter3/停车场'
+import './课程chapter4(单例模式)/index'
 class Person {
     constructor(name) {
         this.name = name
