@@ -22,4 +22,26 @@ npm install babel-core babel-loader babel-polyfill babel-preset-es2015 babel-pre
 [点击进入UML的网址](https://www.processon.com/history)
 3设计模式的使用
 打车的面试题：
-画出UML图，
+画出UML图
+-------
+### 补充配置文件进行
+1. 安装样式处理相关插件
+npm install css-loader style-loader postcss-loader autoprefixer --save-dev
+这系列插件用来处理 CSS 样式，其中 autoprefixer 是 postcss 的一个插件，用来自动给 CSS 样式添加前缀。
+2. 安装 file-loader
+该插件将在导入图片、字体等文件时发挥作用。PS.您也可以安装 url-loader 以实现相同的作用：
+
+npm install file-loader --save-dev
+npm install file-loader --save-dev
+
+3. 安装 ESLint 相关的插件
+npm install eslint eslint-loader --save-dev
+这些插件用来对 JavaScript 代码进行检查。
+
+4. 安装 extract-text-webpack-plugin 插件
+npm install extract-text-webpack-plugin --save-dev
+该插件用来将 CSS 抽取到独立的文件。
+
+5. 安装 clean-webpack-plugin 插件
+npm install clean-webpack-plugin --save-dev
+该插件用来对 dist 文件夹进行清理工作，每次打包时先清理之前的 dist 文件夹。

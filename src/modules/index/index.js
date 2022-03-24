@@ -6,7 +6,8 @@
 // import './课程chapter3/停车场'
 // import './课程chapter4(单例模式)/index'
 // import './课程模式/代理模式'
-import './课程模式/观察者模式'
+// import '/课程模式/观察者模式'
+import '../../assets/pattern/课程模式/观察者模式'
 class Person {
     constructor(name) {
         this.name = name
