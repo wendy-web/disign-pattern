@@ -1,6 +1,7 @@
 module.exports = {
     HTMLDirs:[
         "index",
-        "intro"
+        "intro",
+        "cypress"
     ]
 }
